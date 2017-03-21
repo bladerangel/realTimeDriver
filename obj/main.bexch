@@ -1,0 +1,22 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+C:\Users\Rangel\Desktop\projetosADA\driver\default.gpr
+20170215165012
+[BOUND OBJECT FILES]
+C:\Users\Rangel\Desktop\projetosADA\driver\obj\main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-LC:\Users\Rangel\Desktop\projetosADA\driver\obj\
+-LC:\Users\Rangel\Desktop\projetosADA\driver\obj\
+-LC:/gnat/2016/lib/gcc/i686-pc-mingw32/4.9.4/adalib/
+-static
+-static-libgcc
+C:/gnat/2016/lib/gcc/i686-pc-mingw32/4.9.4/adalib/libgnarl.a
+C:/gnat/2016/lib/gcc/i686-pc-mingw32/4.9.4/adalib/libgnat.a
+-Xlinker
+--stack=0x200000,0x1000
+-mthreads
